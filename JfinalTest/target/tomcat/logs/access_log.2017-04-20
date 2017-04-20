@@ -1,0 +1,1 @@
+0:0:0:0:0:0:0:1 - - [20/Apr/2017:17:26:18 +0800] "GET /JfinalTest/user/queryAllUser HTTP/1.1" 200 296 http-bio-8666-exec-1 1289
